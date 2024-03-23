@@ -10,4 +10,4 @@ RUN npm install
 
 EXPOSE 8090
 
-CMD [ "node", "app.js" ]
+CMD [ "npm","run", "docker" ]

@@ -2,15 +2,15 @@
   "development": {
     "username": "postgres",
     "password": "postgres",
-    "database": "hw11todo",
-    "host": "127.0.0.1",
+    "database": "hw11new",
+    "host": "localhost",
     "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
     "password": "postgres",
-    "database": "hw11todo",
-    "host": "127.0.0.1",
+    "database": "hw11new",
+    "host": "localhost",
     "dialect": "postgres"
   },
   "production": {
